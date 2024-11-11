@@ -1,4 +1,4 @@
-# MOD NAMEN ÄNDERN
+# Notenblock
 
 Kurze Beschreibung, was der Mod leistet.
 
