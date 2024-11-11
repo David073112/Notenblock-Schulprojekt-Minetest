@@ -1,8 +1,8 @@
 # Notenblock
 
-Kurze Beschreibung, was der Mod leistet.
+Spielt Töne ab
 
 <img src="screenshot.png">
 
 Lizenz:
-Copyright (C) 2022 VORNAME NACHNAME, Lizenz: Creative Commons BY-SA 4.0
+Copyright (C) 2024 David Thiele, Lizenz: Creative Commons BY-SA 4.0
