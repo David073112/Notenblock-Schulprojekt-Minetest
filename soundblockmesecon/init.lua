@@ -73,19 +73,19 @@ minetest.register_craft({
 	output = "soundblockmesecon:soundblock",
 	recipe = {
 		{
+			"",
 			"dye:orange",
-			"dye:orange",
-			"dye.orange"
+			""
 		},
 		{
 			"dye:orange",
-			"dye:orange",
+			"",
 			"dye:orange"
 		},
 		{
+			"",
 			"dye:orange",
-			"dye:orange",
-			"dye:orange"
+			""
 		}
 	}
 })
