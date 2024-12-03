@@ -67,3 +67,25 @@ on_rightclick = function(pos, node, player, itemstack, pointed_thing)
 
 end		
 })
+
+
+minetest.register_craft({
+	output = "soundblockmesecon:soundblock",
+	recipe = {
+		{
+			"dye:orange",
+			"dye:orange",
+			"dye.orange"
+		},
+		{
+			"dye:orange",
+			"dye:orange",
+			"dye:orange"
+		},
+		{
+			"dye:orange",
+			"dye:orange",
+			"dye:orange"
+		}
+	}
+})
